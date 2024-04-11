@@ -1,0 +1,27 @@
+[
+    {
+        "id": 11,
+        "img": "unit1",
+        "desc": "Chartered Accountant"
+    },
+    {
+        "id": 12,
+        "img": "unit2",
+        "desc": "Stock Management Expert"
+    },
+    {
+        "id": 13,
+        "img": "unit3",
+        "desc": "Quantitative Analyst"
+    },
+    {
+        "id": 14,
+        "img": "unit4",
+        "desc": "Portfolio Manager"
+    },
+    {
+        "id": 15,
+        "img": "unit5",
+        "desc": "Financial Analyses"
+    }
+]

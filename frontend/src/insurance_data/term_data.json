@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "img": "term1",
+        "desc": "Full stack web dev"
+    },
+    {
+        "id": 2,
+        "img": "term2",
+        "desc": "Backend Roles"
+    },
+    {
+        "id": 3,
+        "img": "term3",
+        "desc": "Full stack web dev"
+    },
+    {
+        "id": 4,
+        "img": "term4",
+        "desc": "Data Scientist"
+    },
+    {
+        "id": 5,
+        "img": "term5",
+        "desc": "AI Developer"
+    },
+    {
+        "id": 6,
+        "img": "term6",
+        "desc": "Data base Administrator"
+    },
+    {
+        "id": 8,
+        "img": "term8",
+        "desc": "Cloud Engineer"
+    },
+    {
+        "id": 9,
+        "img": "term9",
+        "desc": "Software Engineer"
+    },
+    {
+        "id": 10,
+        "img": "term10",
+        "desc": "App Dev"
+    }
+]

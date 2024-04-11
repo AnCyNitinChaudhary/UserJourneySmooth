@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "img": "i1.jpeg",
+        "desc": "Sales Manager"
+    },
+    {
+        "id": 2,
+        "img": "i2.jpg",
+        "desc": "Maketing Manager"
+    },
+    {
+        "id": 3,
+        "img": "i3.jpg",
+        "desc": "Channel Sales Manager"
+    }
+]
